@@ -7,7 +7,7 @@ module.exports = {
       siteTitle: `Andrey Petrov`,
       siteTitleAlt: `Andrey Petrov portfolio`,
       siteHeadline: `Andrey Petrov portfolio`,
-      siteUrl: `https://andrey5608.github.io/cv`,
+      siteUrl: `https://andrey5608.github.io/`,
       siteDescription: `Andrey Petrov portfolio`,
       siteLanguage: `ru`,
       siteImage: `/banner.jpg`,
