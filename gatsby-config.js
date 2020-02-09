@@ -9,10 +9,9 @@ module.exports = {
       siteHeadline: `Andrey Petrov portfolio`,
       siteUrl: `https://andrey5608.github.io/cv`,
       siteDescription: `Andrey Petrov portfolio`,
-      siteLanguage: `ru`,
+      siteLanguage: `en`,
       siteImage: `/banner.jpg`,
-      author: `@andrey5608`,
-      showThemeAuthor: false
+      author: `@andrey5608`
     },
   plugins: [
     {
